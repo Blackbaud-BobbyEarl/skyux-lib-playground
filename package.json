@@ -1,6 +1,6 @@
 {
   "name": "@blackbaud-bobbyearl/skyux-playground",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A library named skyux-lib-playground",
   "scripts": {
     "build": "skyux build-public-library",
